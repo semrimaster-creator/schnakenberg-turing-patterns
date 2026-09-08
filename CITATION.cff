@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Turing Pattern Formation in the Schnakenberg Reaction-Diffusion System: A Linear Stability Analysis Validated Against Direct Numerical Simulation"
+type: software
+authors:
+  - family-names: "Semri"
+    given-names: "Mohamed"
+    email: "semri.master@gmail.com"
+repository-code: "https://github.com/semrimaster-creator/schnakenberg-turing-patterns"
+license: MIT
+version: 1.0.0
+date-released: 2026-09-02
+keywords:
+  - reaction-diffusion
+  - Turing patterns
+  - linear stability analysis
+  - pseudo-spectral methods
+  - pattern formation
+  - computational mathematics

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+results/*.csv
+results/*.txt
+results/*.pdf
+figures/*.png
+.pytest_cache/
+*.egg-info/
+.DS_Store
